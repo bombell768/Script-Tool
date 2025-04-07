@@ -34,4 +34,7 @@ This is a macOS desktop application built using **SwiftUI** with **AppKit** inte
 
 ## Building & Running the App
 
+   ```bash
+   git clone https://github.com/bombell768/Script-Tool.git
+   open Script-Tool/ScriptExec.xcodeproj
 
