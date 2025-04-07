@@ -23,7 +23,7 @@ This is a macOS desktop application built using **SwiftUI** with **AppKit** inte
 
 ## Screenshot
 
-![App Screenshot](Screenshots/main_view.png)
+![App Screenshot](Screenshots/main_window.png)
 
 
 ## Requirements

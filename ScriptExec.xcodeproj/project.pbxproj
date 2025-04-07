@@ -13,6 +13,7 @@
 /* Begin PBXFileReference section */
 		A78A8B6A2D7A3DEF00D53E07 /* ScriptExec.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScriptExec.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7ABA1E62DA46A7B001C0DA4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A7BF32422DA476500056371C /* main_window.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = main_window.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -37,6 +38,7 @@
 		A78A8B612D7A3DEF00D53E07 = {
 			isa = PBXGroup;
 			children = (
+				A7BF32412DA475BE0056371C /* Screenshots */,
 				A7ABA1E62DA46A7B001C0DA4 /* README.md */,
 				A78A8B6C2D7A3DEF00D53E07 /* ScriptExec */,
 				A78A8B6B2D7A3DEF00D53E07 /* Products */,
@@ -49,6 +51,14 @@
 				A78A8B6A2D7A3DEF00D53E07 /* ScriptExec.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		A7BF32412DA475BE0056371C /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				A7BF32422DA476500056371C /* main_window.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
