@@ -17,7 +17,7 @@ This is a macOS desktop application built using **SwiftUI** with **AppKit** inte
 
 - Execution indicators:
   - **Running Status**
-  - **Exit Code Indicator** (non-zero code highlighted)
+  - **Exit Code Indicator** 
 
 - Basic syntax highlighting of Swift language keywords.
 
